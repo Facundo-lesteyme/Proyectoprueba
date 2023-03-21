@@ -11,7 +11,8 @@ namespace Proyectoprueba
         static void Main(string[] args)
         {
             Console.WriteLine("Wep");
-            Console.WriteLine("5+5=" + (5 + 5)); 
+            Console.WriteLine("5+5=" + (5 + 5));
+            Console.WriteLine("5+10=" + (5 + 10));
             Console.Read();
         }
     }

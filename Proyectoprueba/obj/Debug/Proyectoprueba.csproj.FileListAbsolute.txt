@@ -6,3 +6,11 @@ C:\Users\Facundo Lesteyme\source\repos\Proyectoprueba\Proyectoprueba\obj\Debug\P
 C:\Users\Facundo Lesteyme\source\repos\Proyectoprueba\Proyectoprueba\obj\Debug\Proyectoprueba.csproj.CoreCompileInputs.cache
 C:\Users\Facundo Lesteyme\source\repos\Proyectoprueba\Proyectoprueba\obj\Debug\Proyectoprueba.exe
 C:\Users\Facundo Lesteyme\source\repos\Proyectoprueba\Proyectoprueba\obj\Debug\Proyectoprueba.pdb
+C:\Users\Facundo Lesteyme\source\repos\UTN TUP\Proyectoprueba\Proyectoprueba\bin\Debug\Proyectoprueba.exe.config
+C:\Users\Facundo Lesteyme\source\repos\UTN TUP\Proyectoprueba\Proyectoprueba\bin\Debug\Proyectoprueba.exe
+C:\Users\Facundo Lesteyme\source\repos\UTN TUP\Proyectoprueba\Proyectoprueba\bin\Debug\Proyectoprueba.pdb
+C:\Users\Facundo Lesteyme\source\repos\UTN TUP\Proyectoprueba\Proyectoprueba\obj\Debug\Proyectoprueba.csproj.AssemblyReference.cache
+C:\Users\Facundo Lesteyme\source\repos\UTN TUP\Proyectoprueba\Proyectoprueba\obj\Debug\Proyectoprueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Facundo Lesteyme\source\repos\UTN TUP\Proyectoprueba\Proyectoprueba\obj\Debug\Proyectoprueba.csproj.CoreCompileInputs.cache
+C:\Users\Facundo Lesteyme\source\repos\UTN TUP\Proyectoprueba\Proyectoprueba\obj\Debug\Proyectoprueba.exe
+C:\Users\Facundo Lesteyme\source\repos\UTN TUP\Proyectoprueba\Proyectoprueba\obj\Debug\Proyectoprueba.pdb
